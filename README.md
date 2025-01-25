@@ -2,20 +2,7 @@
 
 An online platform for the sale and purchase of electronic goods, designed to provide a seamless and secure shopping experience for vendors and consumers alike.
 
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [System Workflow](#system-workflow)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Testing](#testing)
-- [Future Scope](#future-scope)
-- [Acknowledgements](#acknowledgements)
-- [Contributors](#contributors)
-- [License](#license)
 
----
 
 ## Project Overview 📖
 The Electronic Store project focuses on developing a user-friendly, secure, and efficient e-commerce platform for electronic goods. Key objectives include:
